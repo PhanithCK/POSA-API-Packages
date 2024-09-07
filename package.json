@@ -1,0 +1,22 @@
+{
+  "name": "@phanithck/posa-api",
+  "version": "1.0.0",
+  "description": "Provide API client for interacting with Posa service",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhanithCK/POSA-API-Packages.git"
+  },
+  "keywords": [
+    "POSA"
+  ],
+  "author": "PhanithCK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhanithCK/POSA-API-Packages/issues"
+  },
+  "homepage": "https://github.com/PhanithCK/POSA-API-Packages#readme"
+}
