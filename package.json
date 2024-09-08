@@ -1,6 +1,6 @@
 {
   "name": "@phanithck/posa-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provide API client for interacting with Posa service",
   "main": "index.js",
   "scripts": {
