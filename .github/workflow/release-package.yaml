@@ -1,7 +1,7 @@
 name: Node.js Package
 
 on:
-  releaset:
+  release:
     types: [created]
 
 jobs:
