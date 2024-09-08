@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/PhanithCK/POSA-API-Packages/issues"
   },
-  "homepage": "https://github.com/PhanithCK/POSA-API-Packages#readme"
+  "homepage": "https://github.com/PhanithCK/POSA-API-Packages#readme",
+  "publishConfig": {
+    "@PhanithCK:registry": "https://npm.pkg.github.com"
+  }
 }
