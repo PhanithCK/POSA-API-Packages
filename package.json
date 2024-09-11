@@ -1,6 +1,6 @@
 {
   "name": "@phanithck/posa-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Provide API client for interacting with POSA service",
   "main": "dist/index.js",
   "types": "dist/types.d.ts",
