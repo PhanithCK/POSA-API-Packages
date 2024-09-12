@@ -1,12 +1,13 @@
 {
   "name": "@phanithck/posa-api",
-  "version": "1.0.4",
+  "version": "0.0.0-development",
   "description": "Provide API client for interacting with POSA service",
   "main": "dist/index.js",
   "types": "dist/types.d.ts",
   "scripts": {
     "build": "tsc",
-    "test": "exit 0"
+    "test": "exit 0",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -21,8 +22,12 @@
     "url": "https://github.com/PhanithCK/POSA-API-Packages/issues"
   },
   "homepage": "https://github.com/PhanithCK/POSA-API-Packages#readme",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "publishConfig": {
-    "@PhanithCK:registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "dependencies": {
     "axios": "^1.7.7"
